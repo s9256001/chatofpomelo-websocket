@@ -1,0 +1,7 @@
+[2020-09-16 16:46:25.871] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[gate],[gate-server-1],[1600245985870],[disconnect]
+[2020-09-16 16:46:25.890] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[chat],[chat-server-3],[1600245985890],[disconnect]
+[2020-09-16 16:46:25.900] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[chat],[chat-server-2],[1600245985900],[disconnect]
+[2020-09-16 16:46:25.908] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[chat],[chat-server-1],[1600245985908],[disconnect]
+[2020-09-16 16:46:25.916] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[connector],[connector-server-3],[1600245985916],[disconnect]
+[2020-09-16 16:46:25.929] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[connector],[connector-server-2],[1600245985929],[disconnect]
+[2020-09-16 16:46:25.938] [INFO] crash-log - [32m[D:\Research\pomelo\chatofpomelo-websocket\game-server\node_modules\pomelo\lib\master\master.js] [39m[connector],[connector-server-1],[1600245985938],[disconnect]
